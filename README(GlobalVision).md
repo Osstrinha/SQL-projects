@@ -18,8 +18,8 @@ The analysis is conducted using **Python, SQL (SQLite), Pandas, and visualizatio
 
 ```
 📁 project-folder/
-│── 📄 GlobalVision_Analysis.ipynb    # Jupyter Notebook with all queries, analysis & visualizations
-│── 📄 README.md                      # This file
+│── 📄 GlobalVision.ipynb    # Jupyter Notebook with all queries, analysis & visualizations
+│── 📄 README(GlobalVision).md                      # This file
 │── 📂 data/
 │    ├── accounts_anonymized.json     # Salesforce account data
 │    ├── support_cases_anonymized.json # Salesforce support case data
